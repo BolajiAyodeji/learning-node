@@ -1,0 +1,23 @@
+{
+  "name": "learning-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BolajiAyodeji/learning-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BolajiAyodeji/learning-node/issues"
+  },
+  "homepage": "https://github.com/BolajiAyodeji/learning-node#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
