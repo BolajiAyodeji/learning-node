@@ -20,5 +20,8 @@
   "homepage": "https://github.com/BolajiAyodeji/learning-node#readme",
   "devDependencies": {
     "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
